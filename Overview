@@ -1,0 +1,4 @@
+Design of Band Gap Reference (BGR) Voltage
+
+The main purpose of this project is to design a constant reference voltage which is independent of temperature and supply voltage. The designed reference voltage is 1.22V
+with Vdd =1.8V and constant current supply of 5uA which is supplied from current mirror. The design is carried out in Cadence Virtuoso 180nm technology.
